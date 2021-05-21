@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Maersk.Sorting.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Maersk.Sorting.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Maersk.Sorting.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Maersk.Sorting.Interface.dll": {}
+        }
+      },
+      "Maersk.Sorting.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Maersk.Sorting.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Maersk.Sorting.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maersk.Sorting.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Maersk.Sorting.Interface/Maersk.Sorting.Interface.csproj",
+      "msbuildProject": "../Maersk.Sorting.Interface/Maersk.Sorting.Interface.csproj"
+    },
+    "Maersk.Sorting.Model/1.0.0": {
+      "type": "project",
+      "path": "../Maersk.Sorting.Model/Maersk.Sorting.Model.csproj",
+      "msbuildProject": "../Maersk.Sorting.Model/Maersk.Sorting.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Maersk.Sorting.Interface >= 1.0.0",
+      "Maersk.Sorting.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mandasu/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/Maersk.Sorting.Service.csproj",
+      "projectName": "Maersk.Sorting.Service",
+      "projectPath": "/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/Maersk.Sorting.Service.csproj",
+      "packagesPath": "/Users/mandasu/.nuget/packages/",
+      "outputPath": "/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/mandasu/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "projectReferences": {
+            "/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Interface/Maersk.Sorting.Interface.csproj": {
+              "projectPath": "/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Interface/Maersk.Sorting.Interface.csproj"
+            },
+            "/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Model/Maersk.Sorting.Model.csproj": {
+              "projectPath": "/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Model/Maersk.Sorting.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

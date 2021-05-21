@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Maersk.Sorting.Service/1.0.0": {
+        "dependencies": {
+          "Maersk.Sorting.Interface": "1.0.0",
+          "Maersk.Sorting.Model": "1.0.0"
+        },
+        "runtime": {
+          "Maersk.Sorting.Service.dll": {}
+        }
+      },
+      "Maersk.Sorting.Interface/1.0.0": {
+        "dependencies": {
+          "Maersk.Sorting.Model": "1.0.0"
+        },
+        "runtime": {
+          "Maersk.Sorting.Interface.dll": {}
+        }
+      },
+      "Maersk.Sorting.Model/1.0.0": {
+        "runtime": {
+          "Maersk.Sorting.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maersk.Sorting.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Maersk.Sorting.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Maersk.Sorting.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

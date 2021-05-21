@@ -1,0 +1,14 @@
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/obj/Debug/netstandard2.1/Maersk.Sorting.Service.csprojAssemblyReference.cache
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/obj/Debug/netstandard2.1/Maersk.Sorting.Service.csproj.CoreCompileInputs.cache
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/obj/Debug/netstandard2.1/Maersk.Sorting.Service.AssemblyInfoInputs.cache
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/obj/Debug/netstandard2.1/Maersk.Sorting.Service.AssemblyInfo.cs
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/bin/Debug/netstandard2.1/Maersk.Sorting.Service.deps.json
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/bin/Debug/netstandard2.1/Maersk.Sorting.Service.dll
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/bin/Debug/netstandard2.1/Maersk.Sorting.Service.pdb
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/bin/Debug/netstandard2.1/Maersk.Sorting.Interface.dll
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/bin/Debug/netstandard2.1/Maersk.Sorting.Model.dll
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/bin/Debug/netstandard2.1/Maersk.Sorting.Interface.pdb
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/bin/Debug/netstandard2.1/Maersk.Sorting.Model.pdb
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/obj/Debug/netstandard2.1/Maersk.Sorting.Service.csproj.CopyComplete
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/obj/Debug/netstandard2.1/Maersk.Sorting.Service.dll
+/Users/mandasu/Downloads/Maersk Bangalore Backend Exercise/Maersk Offline Exercise/Maersk.Sorting.Service/obj/Debug/netstandard2.1/Maersk.Sorting.Service.pdb
